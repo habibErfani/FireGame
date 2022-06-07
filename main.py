@@ -9,6 +9,7 @@ game = Game()
 background = pygame.image.load('assets/bg.jpg')
 
 
+
 running = True
 while running:
 
