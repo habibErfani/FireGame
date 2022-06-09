@@ -15,7 +15,6 @@ class Player(pygame.sprite.Sprite):
         self.rect.x = 20
         self.rect.y = 500
 
-
     def lunch_projectile(self):
         #nouvelle instance de projectile
         self.all_projectiles.add(Projectile(self))
