@@ -14,6 +14,7 @@ while running:
    
 #appliquer l'arrere plan de notre jeu
 
+
     screen.blit(background, (0,0))
 
     "appliquer l'image de mon joeouer"
