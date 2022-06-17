@@ -11,7 +11,7 @@ background = pygame.image.load('assets/bg.jpg')
 running = True
 while running:
   
-   
+    
 #appliquer l'arrere plan de notre jeu
 
 
