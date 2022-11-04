@@ -7,4 +7,4 @@ class Game:
         self.player = Player()
         self.pressed = {}
 
-      
+    
